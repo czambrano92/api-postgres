@@ -1,0 +1,19 @@
+{
+  "name": "api-postgres",
+  "version": "1.0.0",
+  "description": "test pg promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czambrano92/api-postgres.git"
+  },
+  "author": "czambrano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/czambrano92/api-postgres/issues"
+  },
+  "homepage": "https://github.com/czambrano92/api-postgres#readme"
+}
