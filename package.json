@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/czambrano92/api-postgres#readme",
   "dependencies": {
+    "express": "^4.16.3",
     "nodemon": "^1.17.5",
     "pg-promise": "^8.4.5"
   }
