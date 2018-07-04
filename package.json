@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/czambrano92/api-postgres/issues"
   },
-  "homepage": "https://github.com/czambrano92/api-postgres#readme"
+  "homepage": "https://github.com/czambrano92/api-postgres#readme",
+  "dependencies": {
+    "pg-promise": "^8.4.5"
+  }
 }
